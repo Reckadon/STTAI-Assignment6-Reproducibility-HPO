@@ -24,7 +24,7 @@ The goal of this assignment is to learn about experiment tracking, version contr
 > Model architecture, Hyperparams, logged metrics  
 > ![dashboard](./imgs/dashboard.jpg)
 > Final Evalutation results
-> ![eval results](./imgs/panels.jpg)
+> ![eval results](./imgs/panels.png)
 > Confusion matrix visualisation
 > ![confusion matrix](./imgs/cfm.jpg)
 > Training and Validation loss curves
