@@ -58,11 +58,11 @@ Accuracy vs epochs
 Random
 ![random](./imgs/random.png)
 Grid
-![Grid](./imgs/Grid.png)
+![Grid](./imgs/grid.png)
 Bayesian
-![Bayesian](./imgs/Bayesian.png)
+![Bayesian](./imgs/bayesian.png)
 Hyperband
-![Hyperband](./imgs/Hyperband.png)
+![Hyperband](./imgs/hyperband.png)
 
 Best accuracies and F1 scores for each strat
 Search Method | Accuracy | F1 Score  
